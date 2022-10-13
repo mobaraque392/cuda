@@ -1,0 +1,43 @@
+*{padding: 0px;
+margin: 0px;
+border: 0px;
+outline: 0px;
+box-sizing: border-box;}
+
+.container{width: 90%;
+    margin: auto;
+        }
+.raw{width: 100%;
+    float: left;}
+    .col-1 {width: 8.33%;
+            float: left;}
+    .col-2 {width: 16.66%;float: left;}
+    .col-3 {width: 25%;float: left;}
+    .col-4 {width: 33.33%;float: left;}
+    .col-5 {width: 41.66%;float: left;}
+    .col-6 {width: 50%;float: left;}
+    .col-7 {width: 58.33%;float: left;}
+    .col-8 {width: 66.66%;float: left;}
+    .col-9 {width: 75%;float: left;}
+    .col-10 {width: 83.33%;float: left;}
+    .col-11 {width: 91.66%;float: left;}
+    .col-12 {width: 100%;float: left;}
+header{background-color: #87509C;}
+#service-part{background-color: #17C2A4;}
+#meet-part{background-color: #E7F1F8;}
+        #meet-part h5{color: #48C1E9;}
+#skills-part{background-color: #FFFFFF;}
+#portfolio-part{background-color: #FFDD99;}
+
+#about-part{background-color: #D74680;}
+        #about-part h5{color: #EFA18F; }
+#get-in-tuch{background-color: #3C5499;}
+form{
+width: 90%;height: 100px;}
+input{background-color: #273A71; color: white;}
+#message{width: 90%;height: 60px;}
+
+
+footer{background-color: #344B8E;
+color: white;}
+
